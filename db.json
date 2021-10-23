@@ -1,4 +1,8 @@
 {
+  "posts": [
+    {
   "name": "jared",
-  "time': "testtime"
+  "time": "test time"
+    }
+  ]
 }
